@@ -1,0 +1,12 @@
+for inserting in conjunction table
+{
+    "patient": {
+        "id": 1
+    },
+    "doctor": {
+        "id": 2
+    },
+    "receptionist": {
+        "id": 3
+    }
+}
